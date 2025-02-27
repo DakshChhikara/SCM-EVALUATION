@@ -1,0 +1,2 @@
+Feature: New User Dashboard
+Description: A redesigned dashboard with enhanced UI/UX.
